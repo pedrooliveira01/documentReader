@@ -22,7 +22,7 @@ yarn install
 
 ### Env options environment.ts
 -> Create environment.ts based environment.sample.ts
--> Set API_KEY (Google vbision)
+-> Set API_KEY (Google vision)
 
 ## RUN
 
